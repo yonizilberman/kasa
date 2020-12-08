@@ -15,7 +15,7 @@
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
     </template>
     <template #footer>
-      handle clck for a alert
+      handle click for a alert
     </template>
     </Card>
 
@@ -27,7 +27,7 @@
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
     </template>
     <template #footer>
-      handle cilck for link
+      handle cilck for a link
     </template>
     </Card>
 
