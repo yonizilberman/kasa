@@ -76,4 +76,3 @@ npm run serve
 ```
 
 \*\* If click event added to one of the slot the `@click` trigger will need to be `@click.stop`
-
