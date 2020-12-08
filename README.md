@@ -46,16 +46,16 @@ npm run serve
 
 #### Optional props:
 
-1. `size` (string): The size of the card (`regular` as emply / `l` or `L` / `xl` or `XL`)
+1. `size` (string): The size of the card (`regular` emply / `l` or `L` / `xl` or `XL`).
 2. `cardTextContent` (object):
-   1. `url` (string): The image url
-   2. `title` (string): The text of the title
-   3. `subtitle` (string): The text of the subtitle
-3. `thumbnailTop` (boolean default: false): What is the position of the thumbnail
-4. `hideCover` (boolean default: false): If need to show the cover
-5. `hideAvatar` (boolean default: false): If need to show the avatar
+   1. `url` (string): The image url.
+   2. `title` (string): The text of the title.
+   3. `subtitle` (string): The text of the subtitle.
+3. `thumbnailTop` (boolean default: false): The position of the thumbnail.
+4. `hideCover` (boolean default: false): In order to display/hide the cover image.
+5. `hideAvatar` (boolean default: false): In order to display/hide the avatar image.
 
-#### Options for the slot:
+#### Slot options:
 
 1. `body`: The content of the card body \
    (it can contain anything: text, button, link, etc.)
@@ -75,4 +75,4 @@ npm run serve
 </template>
 ```
 
-\*\* If click event added to one of the slot the `@click` trigger will need to be `@click.stop`
+\*\* In case of added click event to one of the slot the `@click` then the trigger needs to be `@click.stop`.
