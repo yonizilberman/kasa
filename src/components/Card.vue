@@ -165,9 +165,9 @@ $bg: #fff;
   width: 100%;
   height: 100%;
   position: absolute;
-  background: $bg url(/img/bigLoader.db8a8032.svg) 0px 0px/auto 472px no-repeat;
+  background: $bg url(~@/assets/bigLoader.svg) 0px 0px/auto 472px no-repeat;
   &.noAvatar{
-    background: $bg url(/img/loader.1234e3e7.svg) 0px 0px/ 327px 395px no-repeat;
+    background: $bg url(~@/assets/loader.svg) 0px 0px/ 327px 395px no-repeat;
   }
 }
 .cardCaver {
